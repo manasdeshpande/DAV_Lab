@@ -3,7 +3,7 @@
 ## Lab Experiments
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
-| 1. | Getting introduced to data analytics libraries in Python and R | LO1 |
+| 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/manasdeshpande/DAV_Lab/blob/main/DAV_Exp1.ipynb) | LO1 |
 | 2. | Simple Linear Regression in Python | LO2 |
 | 3. | Multiple Linear Regression in Python | LO2 |
 | 4. | Time Series Analysis in Python | LO3 |
