@@ -4,7 +4,7 @@
 | No | Name of Experiment | LO's |
 | :--: | ------------------ | :----: |
 | 1. | [Getting introduced to data analytics libraries in Python and R](https://github.com/manasdeshpande/DAV_Lab/blob/main/DAV_Exp1.ipynb) | LO1 |
-| 2. | Simple Linear Regression in Python | LO2 |
+| 2. | [Simple Linear Regression in Python](https://github.com/manasdeshpande/DAV_Lab/blob/main/exp2/exp2_DAV_D11AD_13.ipynb) | LO2 |
 | 3. | Multiple Linear Regression in Python | LO2 |
 | 4. | Time Series Analysis in Python | LO3 |
 | 5. | Implementation of ARIMA model in python | LO3 |
